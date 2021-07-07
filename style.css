@@ -1,0 +1,27 @@
+.cont{
+	text-align: center;
+	margin-top: 25px;
+}
+table{
+	margin: auto;
+}
+input{
+	width: 310px;
+	height: 60px;
+	border-radius: 20px;
+	border: 5px solid #295129;
+	font-size: 34px;
+}
+button{
+    font-size: 28px;
+    background: #369;
+    width: 72px;
+    height: 75px;
+    border-radius: 23px;
+}
+.box{
+	display: inline-block;
+	background: #8c703a;
+	padding: 10px;
+	border-radius: 30px;
+}
